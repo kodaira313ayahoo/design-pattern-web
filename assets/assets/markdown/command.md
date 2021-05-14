@@ -12,11 +12,17 @@ The class diagram below shows the implementation of the **Command** design patte
 
 _Command_ is an abstract class which is used as an interface for all the specific commands:
 
+_Command_は、特定のコマンド群に対してのインターフェイスとして使用される抽象クラスです。
+
+
 - _execute()_ - an abstract method which executes the command;
 - _getTitle()_ - an abstract method which returns the command's title. Used in command history UI;
 - _undo()_ - an abstract method which undoes the command and returns the receiver to the previous state.
 
 _ChangeColorCommand_, _ChangeHeightCommand_ and _ChangeWidthCommand_ are concrete command classes which implement the abstract class _Command_ and its methods.
+
+_ChangeColorCommand_, _ChangeHeightCommand_, _ChangeWidthCommand_ が具象コマンドクラスです。それらは 抽象クラスである _Command_ を実装したものです。
+
 
 _Shape_ is a receiver class which stores multiple properties defining the shape presented in UI: _color_, _height_ and _width_.
 

@@ -58,7 +58,7 @@ const RESOURCES = {
 "assets/assets/markdown/bridge.md": "afd5a912c98709ccccc71d71b9670057",
 "assets/assets/markdown/builder.md": "d502da2ee63d7303260cb4b5ac72f173",
 "assets/assets/markdown/chain-of-responsibility.md": "8f25e86ce5ec5a9e24b5c68655a316a7",
-"assets/assets/markdown/command.md": "0ae359f469599d5c08a580025345ca91",
+"assets/assets/markdown/command.md": "25372d14b3a234959bd46160987dd081",
 "assets/assets/markdown/composite.md": "5e489971c9a7540a6c8d221effed219f",
 "assets/assets/markdown/decorator.md": "0946836fe46af47f48b4b770dadde410",
 "assets/assets/markdown/facade.md": "e1ba5828356253781b5fcea7a6dbf3e2",
@@ -86,9 +86,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "c44d77825924bdcf170e5c4892a09650",
-"/": "c44d77825924bdcf170e5c4892a09650",
-"main.dart.js": "5360b3edd31d20db750060dfc1fdd109",
+"index.html": "b3887cee5a70e69ce0de41ffaa55e6aa",
+"/": "b3887cee5a70e69ce0de41ffaa55e6aa",
+"main.dart.js": "69f532857e8c3ede66e63d86748fc6e2",
 "manifest.json": "54f6d253198ca14c3e927eae911e357a",
 "version.json": "cd8e4d2202f8f0ae55bb02c3c7d746ef"
 };
